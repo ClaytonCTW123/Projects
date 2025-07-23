@@ -1,4 +1,6 @@
 # Projects
+Projects can be downloaded as files from the repository and opened.
+
 # Virtual CV Portfolio
 
 This is a personal portfolio website that showcases my academic background, skills, and projects. It is designed to serve as a virtual CV.
