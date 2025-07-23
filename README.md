@@ -16,4 +16,5 @@ This is a personal portfolio website that showcases my academic background, skil
 
 ## Setup Instructions
 1. Clone the repo
-2. Open `index.html` in your browser
+2. Go to where each project is stored in the repository.
+3. Download the relevant file for each project.
